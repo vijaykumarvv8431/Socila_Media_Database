@@ -26,7 +26,3 @@ Define relationships between tables such as users, posts, comments, and likes.
 Write SQL queries to fetch required data, calculate metrics, and aggregate results.
 Use subqueries, joins, and window functions to analyze data in-depth.
 
-Deliverables:
-
-1. A well-documented SQL codebase with queries organized by analysis type.
-2. Insights and findings on user engagement, content performance, and trends.
